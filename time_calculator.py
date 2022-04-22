@@ -1,6 +1,5 @@
 def add_time(start, duration, currentDay = ""):
 
-
   # list of days
   days = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
   
